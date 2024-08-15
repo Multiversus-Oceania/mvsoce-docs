@@ -8,14 +8,14 @@ const config: Config = {
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://doyeongk.github.io',
+  url: 'https://MultiVersus-Oceania.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/mvsoce-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'doyeongk', // Usually your GitHub org/user name.
+  organizationName: 'MultiVersus-Oceania', // Usually your GitHub org/user name.
   projectName: 'mvsoce-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -35,8 +35,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
@@ -44,8 +42,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -72,11 +68,10 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/doyeongk/mvsoce-docs',
+          href: 'https://github.com/MultiVersus-Oceania/mvsoce-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -136,6 +131,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-};
+}
 
 export default config;
