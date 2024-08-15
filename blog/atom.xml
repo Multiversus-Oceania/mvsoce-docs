@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doyeongk.github.io/mvsoce-docs/blog"/>
     <subtitle>MVSOCE Documentation Blog</subtitle>
-    <icon>https://doyeongk.github.io/mvsoce-docs/img/favicon.ico</icon>
+    <icon>https://doyeongk.github.io/mvsoce-docs/img/logo.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://doyeongk.github.io/mvsoce-docs/blog/welcome</id>
