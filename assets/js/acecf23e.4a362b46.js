@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmvsoce_docs=self.webpackChunkmvsoce_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/mvsoce-docs/blog","blogTitle":"Blog","authorsListPath":"/mvsoce-docs/blog/authors"}')}}]);
