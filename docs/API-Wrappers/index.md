@@ -7,4 +7,3 @@ sidebar_label: API Wrappers
 ### Created using Hydras archived documentation & other sources.
 
 ## [CPPVersus](./CPPVersus/Installation/index.md)
-## [PythonVersus](./PythonVersus/Installation/index.md)
