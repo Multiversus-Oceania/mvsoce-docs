@@ -5,7 +5,9 @@ sidebar_label: Tournament SOP
 
 # Tournament Standard Operating Procedures
 
-## How to Create and Run Tournaments
+## [How to Create Tournaments in Start.gg](./Create/index.md)
+
+## How to Run the Tournament
 
 ## How to Stream Tournaments
 
